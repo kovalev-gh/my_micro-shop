@@ -45,3 +45,5 @@ def add(a: int, b: int):
 
 if __name__ == "__main__":
     uvicorn.run("main:app", reload=True)
+
+a=1
